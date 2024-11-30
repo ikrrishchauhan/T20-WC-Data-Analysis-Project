@@ -1,5 +1,5 @@
 # T20-WC-Data-Analysis-Project
-📖 Project Overview
+📖 Project Overview:
 This project focuses on analyzing T20 World Cup data using modern data analysis tools and technologies. By collecting data through web scraping, performing comprehensive data manipulation using Python and Pandas, and visualizing insights with Power BI, we aim to uncover meaningful trends and patterns from T20 cricket tournaments.
 
 🚀 Features
